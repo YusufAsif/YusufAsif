@@ -1,4 +1,4 @@
-![LeetCode Stats](https://leetcode.card.workers.dev/YusufAsif?theme=default&font=baloo&extension=activity) [![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=<yusufasif>)](https://auth.geeksforgeeks.org/user/<yusufasif>/practice/)
+![LeetCode Stats](https://leetcode.card.workers.dev/YusufAsif?theme=default&font=baloo&extension=activity)
 
 <!---
 YusufAsif/YusufAsif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-![LeetCode Stats](https://leetcode.card.workers.dev/YusufAsif?theme=default&font=baloo&extension=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/YusufAsif?theme=unicorn&extension=activity)
 
 <!---
 YusufAsif/YusufAsif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
